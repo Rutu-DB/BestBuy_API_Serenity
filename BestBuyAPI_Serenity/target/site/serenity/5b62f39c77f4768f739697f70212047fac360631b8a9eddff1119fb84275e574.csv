@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores test","This will read Store by Name ","SUCCESS","2020-12-23T22:20:18.439Z[Europe/London]","0.0","0.17"
+"Stores test","This will get all stores","SUCCESS","2020-12-23T22:20:18.611Z[Europe/London]","0.0","0.14"
+"Stores test","This will delete and verify if store is deleted","SUCCESS","2020-12-23T22:20:18.751Z[Europe/London]","0.0","0.14"
+"Stores test","This will create stores ","SUCCESS","2020-12-23T22:20:18.892Z[Europe/London]","0.0","0.11"

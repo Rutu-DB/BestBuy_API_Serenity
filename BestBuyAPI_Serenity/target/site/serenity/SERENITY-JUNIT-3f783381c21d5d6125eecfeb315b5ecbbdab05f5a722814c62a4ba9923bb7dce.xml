@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.bestbuy.bestBuyTest.CategoriesTest" skipped="0" tests="5" time="4.27" timestamp="2020-12-23T22:20:09.639Z[Europe/London]"><testcase classname="com.bestbuy.bestBuyTest.CategoriesTest" name="This will read category- By category ID "/><testcase classname="com.bestbuy.bestBuyTest.CategoriesTest" name="This will get all categories"/><testcase classname="com.bestbuy.bestBuyTest.CategoriesTest" name="This will delete and verify if category is deleted"/><testcase classname="com.bestbuy.bestBuyTest.CategoriesTest" name="This will update category"><failure message="1 expectation failed.&#10;Expected status code &lt;500&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;404&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuy.bestBuyTest.CategoriesTest.test005(CategoriesTest.java:56)&#13;
+</system-err></testcase><testcase classname="com.bestbuy.bestBuyTest.CategoriesTest" name="This will create category "/></testsuite>

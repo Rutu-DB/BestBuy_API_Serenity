@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services test","This will read services- By name ","SUCCESS","2020-12-23T22:20:17.828Z[Europe/London]","0.0","0.13"
+"Services test","This will get all services","SUCCESS","2020-12-23T22:20:17.959Z[Europe/London]","0.0","0.11"
+"Services test","This will delete and verify if services is deleted","ERROR","2020-12-23T22:20:18.065Z[Europe/London]","0.0","0.12"
+"Services test","This will update services","ERROR","2020-12-23T22:20:18.183Z[Europe/London]","0.0","0.11"
+"Services test","This will create a record","SUCCESS","2020-12-23T22:20:18.292Z[Europe/London]","0.0","0.1"

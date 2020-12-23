@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product test","This will read product- By product ID ","SUCCESS","2020-12-23T22:20:15.929Z[Europe/London]","0.0","1.11"
+"Product test","This will get all products","SUCCESS","2020-12-23T22:20:17.039Z[Europe/London]","0.0","0.22"
+"Product test","This will delete and verify if product is deleted","SUCCESS","2020-12-23T22:20:17.257Z[Europe/London]","0.0","0.31"
+"Product test","This will update product","SUCCESS","2020-12-23T22:20:17.569Z[Europe/London]","0.0","0.09"
+"Product test","This will create product ","SUCCESS","2020-12-23T22:20:17.662Z[Europe/London]","0.0","0.11"

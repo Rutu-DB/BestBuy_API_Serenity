@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services test","This will delete and verify if services is deleted","ERROR","2020-12-23T22:20:18.065Z[Europe/London]","0.0","0.12"
+"Services test","This will update services","ERROR","2020-12-23T22:20:18.183Z[Europe/London]","0.0","0.11"

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuy.bestBuyTest.ServicesTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.615 sec <<< FAILURE! - in com.bestbuy.bestBuyTest.ServicesTest
+test004(com.bestbuy.bestBuyTest.ServicesTest)  Time elapsed: 0.114 sec  <<< ERROR!
+java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+	at com.bestbuy.bestBuyTest.ServicesTest.test004(ServicesTest.java:42)
+
+test005(com.bestbuy.bestBuyTest.ServicesTest)  Time elapsed: 0.107 sec  <<< ERROR!
+java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+	at com.bestbuy.bestBuyTest.ServicesTest.test005(ServicesTest.java:50)
+
